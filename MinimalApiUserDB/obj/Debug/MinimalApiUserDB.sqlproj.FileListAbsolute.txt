@@ -1,0 +1,10 @@
+C:\Projects\MinimalAPIApp\MinimalApiUserDB\bin\Debug\MinimalApiUserDB.dacpac
+C:\Projects\MinimalAPIApp\MinimalApiUserDB\bin\Debug\MinimalApiUserDB.dll
+C:\Projects\MinimalAPIApp\MinimalApiUserDB\bin\Debug\MinimalApiUserDB.pdb
+C:\Projects\MinimalAPIApp\MinimalApiUserDB\obj\Debug\MinimalApiUserDB.sqlproj.AssemblyReference.cache
+C:\Projects\MinimalAPIApp\MinimalApiUserDB\obj\Debug\Model.xml
+C:\Projects\MinimalAPIApp\MinimalApiUserDB\obj\Debug\refactor.xml
+C:\Projects\MinimalAPIApp\MinimalApiUserDB\obj\Debug\postdeploy.sql
+C:\Projects\MinimalAPIApp\MinimalApiUserDB\obj\Debug\predeploy.sql
+C:\Projects\MinimalAPIApp\MinimalApiUserDB\obj\Debug\MinimalApiUserDB.dll
+C:\Projects\MinimalAPIApp\MinimalApiUserDB\obj\Debug\MinimalApiUserDB.pdb

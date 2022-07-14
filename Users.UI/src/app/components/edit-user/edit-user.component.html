@@ -1,0 +1,18 @@
+<div *ngIf="user">
+    <h2>{{ user.firstName }}</h2>
+    <div>
+        Id:
+        <input [(ngModel)]="user.id" disabled="yes"/>
+    </div>
+    <div>
+        First Name:
+        <input [(ngModel)]="user.firstName" placeholder="First Name"/>
+    </div>
+    <div>
+        Last Name:
+        <input [(ngModel)]="user.lastName" placeholder="Last Name"/>
+    </div>
+    <button (click)="updateUser(user)" *ngIf="user.id">Save</button>
+    <button (click)="deleteUser(user)" *ngIf="user.id">Delete</button>
+    <button (click)="createUser(user)" *ngIf="!user.id">Save</button>
+</div>
